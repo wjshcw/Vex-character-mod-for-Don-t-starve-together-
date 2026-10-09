@@ -1,6 +1,6 @@
 # 愁云使者 薇古斯（Vex the Gloomist）
 
-> 饥荒联机版（Don't Starve Together）角色 Mod 版本：V0.1
+> 饥荒联机版（Don't Starve Together）角色 Mod 版本：V0.2.0
 
 [详细玩法介绍](./薇古斯Mod全面介绍.md)
 
