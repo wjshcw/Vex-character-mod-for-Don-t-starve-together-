@@ -2,7 +2,7 @@
 
 > 饥荒联机版（Don't Starve Together）角色 Mod 版本：V0.2.0
 
-[详细玩法介绍](./薇古斯Mod全面介绍.md)
+[English Introduction](./Vex_Gloomist_Mod_Introduction_EN.md)
 
 ---
 
